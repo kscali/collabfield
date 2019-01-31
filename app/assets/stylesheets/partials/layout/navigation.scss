@@ -1,3 +1,7 @@
+.navbar {
+ height: 10px;
+}
+
 nav {
   .navbar-header {
     width: 100%;
@@ -13,8 +17,6 @@ nav {
   }
 }
 
-
-
 .navbar-default, .navbar-toggle:focus, .collapsed, button.navbar-toggle {
   background: $navbarColor !important;
   border: none;
@@ -22,3 +24,7 @@ nav {
     color: white !important;
   }
 }
+
+
+
+
